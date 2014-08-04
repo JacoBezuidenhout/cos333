@@ -1,0 +1,21 @@
+LOAD A;
+LOAD 6;
+EXEC +;
+
+LOAD A;
+LOAD B;
+LOAD 2;
+EXEC *;
+EXEC +;
+
+LOAD 9;
+EXEC #;
+LOAD C;
+EXEC *;
+LOAD D;
+EXEC +;
+LOAD E;
+EXEC +;
+
+LOAD 1;
+EXEC #;
